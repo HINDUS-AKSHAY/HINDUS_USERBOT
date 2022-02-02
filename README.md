@@ -46,8 +46,13 @@
 
 
 ## 𝙃𝙤𝙬 𝙩𝙤 𝙙𝙚𝙥𝙡𝙤𝙮 𝙃𝙄𝙉𝘿𝙐𝙎_𝙐𝙎𝙀𝙍𝘽𝙊𝙏 
-### Heroku Deploy
-  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT)
+-------------------------------------------------
+
+## 𝙳𝙴𝙿𝙻𝙾𝚈  🚀
+
+- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT)
+
+------------------------------------------------
   
 ## Support
 
