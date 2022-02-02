@@ -49,11 +49,6 @@
 
 ------------------------------------------------
   
-## Support
-
-![Channel](https://img.shields.io/badge/dynamic/json?color=red&label=channel%20@HINDUS_USERBOT&query=subscribers&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3DHINDUS_USERBOT&logo=telegram)
-![Group](https://img.shields.io/badge/dynamic/json?color=red&label=support%20@HINDUS_USERBOT_SUPPORT&query=online&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3DHINDUS_USERBOT_SUPPORT&logo=telegram)
-
 ## 𝚁𝙴𝙿𝙻 :
 
 - Open Repl Link.
