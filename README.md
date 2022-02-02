@@ -1,14 +1,14 @@
 <h1 align="center">
 <b> 𝙃𝙄𝙉𝘿𝙐𝙎 𝙐𝙎𝙀𝙍𝘽𝙊𝙏 {🇮🇳}</b>
 
-[![HINDUS USERBOT logo](https://telegra.ph/file/4c4079343a5a75aca0aae.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FHINDUS-AKSHAY%2FHINDUS_USERBOT%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2FOFFICIAL-SAMEER%2FLionZ)
+[![HINDUS USERBOT logo](https://telegra.ph/file/4c4079343a5a75aca0aae.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FHINDUS-AKSHAY%2FHINDUS_USERBOT%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2FHINDUS-AKSHAY%2FHINDUS_USERBOT)
 
 -----
 
 ## Status Of Bot 
 
 <p align="left"><a 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHINDUS-AKSHAY%2FHINDUS_USERBOT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/HINDUS-AKSHAY/LionZ)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHINDUS-AKSHAY%2FHINDUS_USERBOT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/HINDUS-AKSHAY/HINDUS_USERBOT/badge?&style=flat-square)](https://www.codefactor.io/repository/github/HINDUS-AKSHAY/HINDUS_USERBOT)
 
