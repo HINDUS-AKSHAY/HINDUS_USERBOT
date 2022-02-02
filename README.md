@@ -1,35 +1,35 @@
 A simple Telegram userbot based on Telethon .
-[![HINDUS USERBOT logo](https://telegra.ph/file/c7699bd09d7aacb203bba.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FOFFICIAL-SAMEER%2FHINDUS_USERBOT%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2FOFFICIAL-SAMEER%2FLionZ)
+[![HINDUS USERBOT logo](https://telegra.ph/file/c7699bd09d7aacb203bba.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FHINDUS-AKSHAY%2FHINDUS_USERBOT%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2FOFFICIAL-SAMEER%2FLionZ)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOFFICIAL-SAMEER%2FHINDUS_USERBOT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/OFFICIAL-SAMEER/LionZ)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHINDUS-AKSHAY%2FHINDUS_USERBOT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/HINDUS-AKSHAY/LionZ)
 
-[![CodeFactor](https://www.codefactor.io/repository/github/OFFICIAL-SAMEER/HINDUS_USERBOT/badge?&style=flat-square)](https://www.codefactor.io/repository/github/OFFICIAL-SAMEER/HINDUS_USERBOT)
+[![CodeFactor](https://www.codefactor.io/repository/github/OFFICIAL-SAMEER/HINDUS_USERBOT/badge?&style=flat-square)](https://www.codefactor.io/repository/github/HINDUS-AKSHAY/HINDUS_USERBOT)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/OFFICIAL-SAMEER/HINDUS_USERBOT/graphs/commit-activity) 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/HINDUS-AKSHAY/HINDUS_USERBOT/graphs/commit-activity) 
 
-![Repo Size](https://img.shields.io/github/repo-size/OFFICIAL-SAMEER/LionZ?&style=flat-square&logo=github)
+![Repo Size](https://img.shields.io/github/repo-size/HINDUS-AKSHAY/LionZ?&style=flat-square&logo=github)
 
-[![GitHub license](https://img.shields.io/github/license/OFFICIAL-SAMEER/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/OFFICIAL-SAMEER/HINDUS_USERBOT/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/OFFICIAL-SAMEER/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT/blob/master/LICENSE)
 
-[![GitHub issues](https://img.shields.io/github/issues/OFFICIAL-SAMEER/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/OFFICIAL-SAMEER/HINDUS_USERBOT/issues)
+[![GitHub issues](https://img.shields.io/github/issues/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT/issues)
 
-[![PR Open](https://img.shields.io/github/issues-pr/OFFICIAL-SAMEER/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/OFFICIAL-SAMEER/HINDUS_USERBOT/pulls)
+[![PR Open](https://img.shields.io/github/issues-pr/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT/pulls)
 
-[![PR Closed](https://img.shields.io/github/issues-pr-closed/OFFICIAL-SAMEER/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/OFFICIAL-SAMEER/HINDUS_USERBOT/pulls?q=is:closed)
+[![PR Closed](https://img.shields.io/github/issues-pr-closed/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT/pulls?q=is:closed)
 
-[![GitHub contributors](https://img.shields.io/github/contributors/OFFICIAL-SAMEER/HINDUS_USERBOT?&style=flat-square&logo=github)](https://GitHub.com/OFFICIAL-SAMEER/HINDUS_USERBOT/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)](https://GitHub.com/HINDUS-AKSHAY/HINDUS_USERBOT/graphs/contributors/)
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/OFFICIAL-SAMEER/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/OFFICIAL-SAMEER/HINDUS_USERBOT/graphs/commit-activity)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT/graphs/commit-activity)
 
-[![GitHub forks](https://img.shields.io/github/forks/OFFICIAL-SAMEER/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/OFFICIAL-SAMEER/HINDUS_USERBOT/fork)
+[![GitHub forks](https://img.shields.io/github/forks/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT/fork)
 
-[![GitHub stars](https://img.shields.io/github/stars/OFFICIAL-SAMEER/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/OFFICIAL-SAMEER/HINDUS_USERBOT/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT/stargazers)
 
 
 
 ## How to deploy LionZ
 ### Heroku Deploy
-  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFFICIAL-SAMEER/HINDUS_USERBOT)
+  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT)
   
 ## Support
 
