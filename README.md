@@ -3,7 +3,7 @@ A simple Telegram userbot based on Telethon .
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHINDUS-AKSHAY%2FHINDUS_USERBOT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/HINDUS-AKSHAY/LionZ)
 
-[![CodeFactor](https://www.codefactor.io/repository/github/OFFICIAL-SAMEER/HINDUS_USERBOT/badge?&style=flat-square)](https://www.codefactor.io/repository/github/HINDUS-AKSHAY/HINDUS_USERBOT)
+[![CodeFactor](https://www.codefactor.io/repository/github/HINDUS-AKSHAY/HINDUS_USERBOT/badge?&style=flat-square)](https://www.codefactor.io/repository/github/HINDUS-AKSHAY/HINDUS_USERBOT)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/HINDUS-AKSHAY/HINDUS_USERBOT/graphs/commit-activity) 
 
