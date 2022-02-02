@@ -1,4 +1,4 @@
-A simple Telegram userbot based on Telethon .
+𝘼 𝙥𝙤𝙬𝙚𝙧𝙛𝙪𝙡 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙪𝙨𝙚𝙧𝙗𝙤𝙩 𝙗𝙖𝙨𝙚𝙙 𝙤𝙣 𝙏𝙚𝙡𝙚𝙩𝙝𝙤𝙣 .
 [![HINDUS USERBOT logo](https://telegra.ph/file/4c4079343a5a75aca0aae.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FHINDUS-AKSHAY%2FHINDUS_USERBOT%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2FOFFICIAL-SAMEER%2FLionZ)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHINDUS-AKSHAY%2FHINDUS_USERBOT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/HINDUS-AKSHAY/LionZ)
