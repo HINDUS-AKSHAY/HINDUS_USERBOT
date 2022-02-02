@@ -9,29 +9,21 @@
 
 <p align="left"><a 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHINDUS-AKSHAY%2FHINDUS_USERBOT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT)
-
 [![CodeFactor](https://www.codefactor.io/repository/github/HINDUS-AKSHAY/HINDUS_USERBOT/badge?&style=flat-square)](https://www.codefactor.io/repository/github/HINDUS-AKSHAY/HINDUS_USERBOT)
-
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/HINDUS-AKSHAY/HINDUS_USERBOT/graphs/commit-activity) 
-
 ![Repo Size](https://img.shields.io/github/repo-size/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)
-
 [![GitHub license](https://img.shields.io/github/license/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT/blob/master/LICENSE)
-
 [![GitHub issues](https://img.shields.io/github/issues/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT/issues)
-
 [![PR Open](https://img.shields.io/github/issues-pr/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT/pulls)
-
 [![PR Closed](https://img.shields.io/github/issues-pr-closed/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT/pulls?q=is:closed)
-
 [![GitHub contributors](https://img.shields.io/github/contributors/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)](https://GitHub.com/HINDUS-AKSHAY/HINDUS_USERBOT/graphs/contributors/)
-
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT/graphs/commit-activity)
-
 [![GitHub forks](https://img.shields.io/github/forks/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT/fork)
-
 [![GitHub stars](https://img.shields.io/github/stars/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT/stargazers)
 
+------
+
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [𝘼𝙠𝙨𝙝𝙖𝙮](https://t.me/HINDU_AKSHAY)
 
 
 ## How to deploy LionZ
