@@ -37,6 +37,14 @@
 ## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [𝙃𝙄𝙉𝘿𝙐𝙎 𝘼𝙆𝙎𝙃𝘼𝙔](https://t.me/HINDU_AKSHAY)
 
 
+---------------
+
+## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 :
+
+- <a href="https://t.me/HINDUS_USERBOT_SUPPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+- <a href="https://t.me/HINDUS_USERBOT"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+
+
 ## How to deploy LionZ
 ### Heroku Deploy
   - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT)
