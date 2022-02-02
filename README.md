@@ -1,7 +1,7 @@
 A simple Telegram userbot based on Telethon .
 [![HINDUS USERBOT logo](https://telegra.ph/file/c7699bd09d7aacb203bba.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FOFFICIAL-SAMEER%2FHINDUS USERBOT%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2FOFFICIAL-SAMEER%2FLionZ)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOFFICIAL-SAMEER%2FHINDUS USERBOT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/OFFICIAL-SAMEER/LionZ)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOFFICIAL-SAMEER%2FHINDUS_USERBOT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/OFFICIAL-SAMEER/LionZ)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/OFFICIAL-SAMEER/HINDUS_USERBOT/badge?&style=flat-square)](https://www.codefactor.io/repository/github/OFFICIAL-SAMEER/HINDUS USERBOT)
 
