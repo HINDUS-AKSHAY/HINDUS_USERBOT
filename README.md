@@ -39,11 +39,6 @@
 
 ---------------
 
-## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 :
-
-- <a href="https://t.me/HINDUS_USERBOT_SUPPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-- <a href="https://t.me/HINDUS_USERBOT"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
-
 
 ## 𝙃𝙤𝙬 𝙩𝙤 𝙙𝙚𝙥𝙡𝙤𝙮 𝙃𝙄𝙉𝘿𝙐𝙎_𝙐𝙎𝙀𝙍𝘽𝙊𝙏 
 -------------------------------------------------
@@ -91,8 +86,12 @@
 - If you fork this repo and edit plugins, it's your concern for further updates.
 - Forking Repo is fine. But if you edit something we will not provide any help.
 - In short, Fork At Your Own Risk.
+-------------------
+## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 :
 
-
+- <a href="https://t.me/HINDUS_USERBOT_SUPPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+- <a href="https://t.me/HINDUS_USERBOT"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+---------------------
 
 **!Full Credit Goes to [CatUserbot](https://github.com/sandy1709/catuserbot)**
    <a href="https://t.me/HINDUS_USERBOT"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
