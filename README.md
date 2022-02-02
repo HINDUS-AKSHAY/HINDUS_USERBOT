@@ -9,7 +9,7 @@ A simple Telegram userbot based on Telethon .
 
 ![Repo Size](https://img.shields.io/github/repo-size/HINDUS-AKSHAY/LionZ?&style=flat-square&logo=github)
 
-[![GitHub license](https://img.shields.io/github/license/OFFICIAL-SAMEER/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT/blob/master/LICENSE)
 
 [![GitHub issues](https://img.shields.io/github/issues/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT/issues)
 
