@@ -45,7 +45,7 @@
 - <a href="https://t.me/HINDUS_USERBOT"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 
-## How to deploy LionZ
+## 𝙃𝙤𝙬 𝙩𝙤 𝙙𝙚𝙥𝙡𝙤𝙮 𝙃𝙄𝙉𝘿𝙐𝙎_𝙐𝙎𝙀𝙍𝘽𝙊𝙏 
 ### Heroku Deploy
   - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT)
   
