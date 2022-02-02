@@ -1,6 +1,10 @@
 <h1 align="center">
 <b> 𝙃𝙄𝙉𝘿𝙐𝙎 𝙐𝙎𝙀𝙍𝘽𝙊𝙏 {🇮🇳}</b>
 
+𝙱𝙴𝚂𝚃  𝙰𝙽𝙳  𝙼𝙾𝚂𝚃  𝙰𝚆𝙰𝙸𝚃𝙴𝙳  𝚄𝚂𝙴𝚁𝙱𝙾𝚃  𝚃𝙾  𝙼𝙰𝙽𝙰𝙶𝙴  𝚈𝙾𝚄𝚁  𝙰𝙲𝙲𝙾𝚄𝙽𝚃 𝚆𝙸𝚃𝙷 𝙻𝚄𝚇𝚄𝚁𝙸𝙾𝚄𝚂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙲𝙾𝙼𝙿𝙰𝚁𝙴𝙳 𝚃𝙾 𝙰𝙽𝚈 𝙾𝚃𝙷𝙴𝚁 𝙱𝙾𝚃𝚂..𝙰𝙻𝚂𝙾 𝚆𝙸𝚃𝙷 𝚂𝙴𝙲𝚄𝚁𝚄𝚃𝚈 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 </p>
+
+-----
+
 [![HINDUS USERBOT logo](https://telegra.ph/file/4c4079343a5a75aca0aae.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FHINDUS-AKSHAY%2FHINDUS_USERBOT%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2FOFFICIAL-SAMEER%2FLionZ)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHINDUS-AKSHAY%2FHINDUS_USERBOT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/HINDUS-AKSHAY/LionZ)
