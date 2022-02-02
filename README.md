@@ -54,6 +54,41 @@
 ![Channel](https://img.shields.io/badge/dynamic/json?color=red&label=channel%20@HINDUS_USERBOT&query=subscribers&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3DHINDUS_USERBOT&logo=telegram)
 ![Group](https://img.shields.io/badge/dynamic/json?color=red&label=support%20@HINDUS_USERBOT_SUPPORT&query=online&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3DHINDUS_USERBOT_SUPPORT&logo=telegram)
 
+## 𝚁𝙴𝙿𝙻 :
+
+- Open Repl Link.
+- Click on Green Play Button.
+- Wait for requirements to finish.
+- Fill API ID, API HASH, Phone number (with country code).
+- Paste the OTP received on Telegram.
+- If You have Enabled 2-Step Verification then fill your password.
+- Your Hindus Bot Session Will be saved in your Telegram Saved Message.
+
+[![repl](https://telegra.ph/file/04d4cbe689f236a66411f.jpg)](https://replit.com/@sameerpanthi/DEADLY-FIGHTERS-BOT#main.py)
+    
+-------------------------------------------------
+## 𝚅𝙰𝚁𝙸𝙰𝙱𝙻𝙴𝚂 :
+
+- `APP_ID`  =  Get this value from my.telegram.org
+- `API_HASH`  =  Get this value from my.telegram.org
+- `STRING_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `LOGGER_ID`  =  Make A Channel And Get it's ID.
+- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
+- `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
+------------
+## 𝙳𝙸𝚂𝙲𝙻𝙰𝙸𝙼𝙴𝚁 
+
+
+- We won't be responsible for any kind of ban due to this bot.
+- DeadlyBot was made for fun purpose and to make group management easier.
+- It's your concern if you spam and gets your account banned.
+- Also, Forks won't be entertained.
+- If you fork this repo and edit plugins, it's your concern for further updates.
+- Forking Repo is fine. But if you edit something we will not provide any help.
+- In short, Fork At Your Own Risk.
+
+
+
 **!Full Credit Goes to [CatUserbot](https://github.com/sandy1709/catuserbot)**
    <a href="https://t.me/HINDUS_USERBOT"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
    <a href="https://t.me/HINDUS_USERBOT_SUPPORT"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
