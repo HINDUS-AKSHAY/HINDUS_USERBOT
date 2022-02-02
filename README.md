@@ -7,7 +7,7 @@ A simple Telegram userbot based on Telethon .
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/HINDUS-AKSHAY/HINDUS_USERBOT/graphs/commit-activity) 
 
-![Repo Size](https://img.shields.io/github/repo-size/HINDUS-AKSHAY/HINDUS?&style=flat-square&logo=github)
+![Repo Size](https://img.shields.io/github/repo-size/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)
 
 [![GitHub license](https://img.shields.io/github/license/HINDUS-AKSHAY/HINDUS_USERBOT?&style=flat-square&logo=github)](https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT/blob/master/LICENSE)
 
