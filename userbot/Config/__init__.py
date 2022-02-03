@@ -1,1 +1,1 @@
-from .hinduub_config import Config
+from .HINDUS_USERBOT_config import Config
