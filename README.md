@@ -1,5 +1,5 @@
 <h1 align="center">
-<b> 𝙃𝙄𝙉𝘿𝙐𝙎 𝙐𝙎𝙀𝙍𝘽𝙊𝙏{🇮🇳}</b>
+<b>𝙃𝙄𝙉𝘿𝙐𝙎 𝙐𝙎𝙀𝙍𝘽𝙊𝙏{🇮🇳}</b>
 
 [![HINDUS USERBOT logo](https://telegra.ph/file/4c4079343a5a75aca0aae.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FHINDUS-AKSHAY%2FHINDUS_USERBOT%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2FHINDUS-AKSHAY%2FHINDUS_USERBOT)
 
