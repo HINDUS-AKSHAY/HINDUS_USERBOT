@@ -64,7 +64,7 @@ async def check_bot_started_users(user, event):
         await event.client.send_message(BOTLOG_CHATID, notification)
 
 
-@hinduub.bot_cmd(
+@HINDUS_USERBOT.bot_cmd(
     pattern=f"^/start({botusername})?([\s]+)?$",
     incoming=True,
     func=lambda e: e.is_private,
@@ -106,13 +106,13 @@ async def bot_start(event):
             start_msg = f"Hey! 👤{mention},\
                         \nI am {my_mention}'s assistant bot.\
                         \nYou can contact to my master from here.\
-                        \n\nPowered by [HINDUS USERBOT](https://t.me/HINDUS USERBOT)"
+                        \n\nPowered by [HINDUS_USERBOT](https://t.me/HINDUS_USERBOT)"
         buttons = [
             (
-                Button.url("Repo", "https://github.com/OFFICIAL-SAMEER/HINDUS USERBOT"),
+                Button.url("Repo", "https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT"),
                 Button.url(
                     "Deploy",
-                    "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FOFFICIAL-SAMEER%2FHINDUS USERBOT&template=https%3A%2F%2Fgithub.com%2FOFFICIAL-SAMEER%2FHINDUS USERBOT",
+                    "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FHINDUS-AKSHAY%2FHINDUS_USERBOT&template=https%3A%2F%2Fgithub.com%2FHINDUS-AKSHAY%2FHINDUS_USERBOT",
                 ),
             )
         ]
@@ -139,7 +139,7 @@ async def bot_start(event):
         await check_bot_started_users(chat, event)
 
 
-@hinduub.bot_cmd(incoming=True, func=lambda e: e.is_private)
+@HINDUS_USERBOT.bot_cmd(incoming=True, func=lambda e: e.is_private)
 async def bot_pms(event):  # sourcery no-metrics
     chat = await event.get_chat()
     if check_is_black_list(chat.id):
@@ -196,7 +196,7 @@ async def bot_pms(event):  # sourcery no-metrics
                     )
 
 
-@hinduub.bot_cmd(edited=True)
+@HINDUS_USERBOT.bot_cmd(edited=True)
 async def bot_pms_edit(event):  # sourcery no-metrics
     chat = await event.get_chat()
     if check_is_black_list(chat.id):
@@ -290,7 +290,7 @@ async def handler(event):
                 LOGS.error(str(e))
 
 
-@hinduub.bot_cmd(pattern="^/uinfo$", from_users=Config.OWNER_ID)
+@HINDUS_USERBOT.bot_cmd(pattern="^/uinfo$", from_users=Config.OWNER_ID)
 async def bot_start(event):
     reply_to = await reply_id(event)
     if not reply_to:
@@ -407,7 +407,7 @@ async def send_flood_alert(user_) -> None:
         FloodConfig.ALERT[user_.id]["fa_id"] = fa_msg.id
 
 
-@hinduub.tgbot.on(CallbackQuery(data=re.compile(b"bot_pm_ban_([0-9]+)")))
+@HINDUS_USERBOT.tgbot.on(CallbackQuery(data=re.compile(b"bot_pm_ban_([0-9]+)")))
 @check_owner
 async def bot_pm_ban_cb(c_q: CallbackQuery):
     user_id = int(c_q.pattern_match.group(1))
@@ -449,7 +449,7 @@ def is_flood(uid: int) -> Optional[bool]:
         return True
 
 
-@hinduub.tgbot.on(CallbackQuery(data=re.compile(b"toggle_bot-antiflood_off$")))
+@HINDUS_USERBOT.tgbot.on(CallbackQuery(data=re.compile(b"toggle_bot-antiflood_off$")))
 @check_owner
 async def settings_toggle(c_q: CallbackQuery):
     if gvarstatus("bot_antif") is None:
@@ -459,8 +459,8 @@ async def settings_toggle(c_q: CallbackQuery):
     await c_q.edit("BOT_ANTIFLOOD is now disabled !")
 
 
-@hinduub.bot_cmd(incoming=True, func=lambda e: e.is_private)
-@hinduub.bot_cmd(edited=True, func=lambda e: e.is_private)
+@HINDUS_USERBOT.bot_cmd(incoming=True, func=lambda e: e.is_private)
+@HINDUS_USERBOT.bot_cmd(edited=True, func=lambda e: e.is_private)
 async def antif_on_msg(event):
     if gvarstatus("bot_antif") is None:
         return
