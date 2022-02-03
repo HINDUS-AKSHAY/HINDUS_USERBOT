@@ -86,8 +86,4 @@
 
 - <a href="https://t.me/HINDUS_USERBOT_SUPPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
 - <a href="https://t.me/HINDUS_USERBOT"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
----------------------
 
-**!Full Credit Goes to [CatUserbot](https://github.com/sandy1709/catuserbot)**
-   <a href="https://t.me/HINDUS_USERBOT"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-   <a href="https://t.me/HINDUS_USERBOT_SUPPORT"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
