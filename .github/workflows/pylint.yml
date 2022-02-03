@@ -30,6 +30,6 @@ jobs:
           commit_message: 'pylint: auto fixes'
           commit_options: '--no-verify'
           repository: .
-          commit_user_name: OFFICIAL-SAMEER
-          commit_user_email: OFFICIAL-SAMEER@users.noreply.github.com
-          commit_author: OFFICIAL-SAMEER <OFFICIAL-SAMEER@users.noreply.github.com>
+          commit_user_name: HINDUS-AKSHAY
+          commit_user_email: HINDUS-AKSHAY@users.noreply.github.com
+          commit_author: HINDUS-AKSHAY <HINDUS-AKSHAY@users.noreply.github.com>
