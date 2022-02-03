@@ -1,4 +1,4 @@
-name: LionChecker
+name: HINDUSChecker
 
 on: [push, pull_request]
 
