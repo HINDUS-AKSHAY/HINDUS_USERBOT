@@ -1,6 +1,6 @@
 ## Mandatory Imports
 ```python3
-from userbot import hinduub
+from userbot import HINDUS_USERBOT
 
 from ..funcs.managers import edit_delete, edit_or_reply
 
@@ -10,20 +10,20 @@ plugin_category="extra"
 ### Formation
 This below one is Sample format of making plugin
 ```python3
-from userbot import hinduub
+from userbot import HINDUS_USERBOT
 
 from ..funcs.managers import edit_delete, edit_or_reply
 
 plugin_category="extra"
 
-@hinduub.hindu_cmd(
-    pattern="hibuddy(?:\s|$)([\s\S]*)",
-    command=("hibuddy", plugin_category),
+@HINDUS_USERBOT.HINDUS_cmd(
+    pattern="HINDUS(?:\s|$)([\s\S]*)",
+    command=("HINDUS", plugin_category),
     info={
         "header": "Just to say hi to other user.",
         "description": "input string along with cmd will be added to your hi text",
-        "usage": "{tr}hibuddy <text>",
-        "examples": "{tr}hibuddy how are you doing",
+        "usage": "{tr}HINDUS <text>",
+        "examples": "{tr}HINDUS how are you doing",
     },
 )
 async def hi_buddy(event):
