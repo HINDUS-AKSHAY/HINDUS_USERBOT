@@ -30,7 +30,7 @@ class Config(object):
     TZ = os.environ.get("TZ", "Asia/Kolkata")
     # set this with required hindu repo link
     UPSTREAM_REPO = os.environ.get(
-        "UPSTREAM_REPO", "https://github.com/OFFICIAL-SAMEER/HINDUS USERBOT.git"
+        "UPSTREAM_REPO", "https://github.com/HINDUS-AKSHAY/HINDUS USERBOT.git"
     )
 
     # BASIC and MAIN CONFIG VARS
@@ -66,7 +66,7 @@ class Config(object):
     # set this will channel id of your custom plugins
     PLUGIN_CHANNEL = int(os.environ.get("PLUGIN_CHANNEL") or 0)
     # set this value with your required name for telegraph plugin
-    TELEGRAPH_SHORT_NAME = os.environ.get("TELEGRAPH_SHORT_NAME", "HINDUS USERBOT")
+    TELEGRAPH_SHORT_NAME = os.environ.get("TELEGRAPH_SHORT_NAME", "HINDUS_USERBOT")
     # for custom thumb image set this with your required thumb telegraoh link
     THUMB_IMAGE = os.environ.get(
         "THUMB_IMAGE", "https://telegra.ph/file/9299f043e1b27a12dd944.jpg"
@@ -118,7 +118,7 @@ class Config(object):
     REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
     # Get this value from https://free.currencyconverterapi.com/
     CURRENCY_API = os.environ.get("CURRENCY_API", None)
-    # Google Drive plugin https://telegra.ph/G-Drive-guide-for-HINDUS USERBOT-01-01
+    # Google Drive plugin https://telegra.ph/G-Drive-guide-for-HINDUS_USERBOT-01-01
     G_DRIVE_CLIENT_ID = os.environ.get("G_DRIVE_CLIENT_ID", None)
     G_DRIVE_CLIENT_SECRET = os.environ.get("G_DRIVE_CLIENT_SECRET", None)
     G_DRIVE_FOLDER_ID = os.environ.get("G_DRIVE_FOLDER_ID", None)
