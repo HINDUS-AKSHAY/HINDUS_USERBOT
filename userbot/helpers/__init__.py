@@ -14,7 +14,7 @@ while flag:
         from .progress import *
         from .qhelper import process
         from .tools import *
-        from .utils import _format, _hindutools, _hinduutils
+        from .utils import _format, _hindustools, _hindusutils
 
         break
     except ModuleNotFoundError as e:
