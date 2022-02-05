@@ -48,8 +48,8 @@ REGEX_ = REGEX()
 sudo_enabledcmds = sudo_enabled_cmds()
 
 
-class HINDUS USERBOTClient(TelegramClient):
-    def hindu_cmd(
+class HINDUS_USERBOTClient(TelegramClient):
+    def HINDUS_cmd(
         self: TelegramClient,
         pattern: str or tuple = None,
         info: Union[str, Dict[str, Union[str, List[str], Dict[str, str]]]]
@@ -223,7 +223,7 @@ class HINDUS USERBOTClient(TelegramClient):
                                     **kwargs,
                                 ),
                             )
-                        hinduub.add_event_handler(
+                        HINDUS_USERBOT.add_event_handler(
                             wrapper,
                             NewMessage(
                                 pattern=REGEX_.regex2,
@@ -239,8 +239,8 @@ class HINDUS USERBOTClient(TelegramClient):
                 except BaseException:
                     LOADED_CMDS.update({file_test: [func]})
                 if edited:
-                    hinduub.add_event_handler(func, events.MessageEdited(**kwargs))
-                hinduub.add_event_handler(func, events.NewMessage(**kwargs))
+                    HINDUS_USERBOT.add_event_handler(func, events.MessageEdited(**kwargs))
+                HINDUS_USERBOT.add_event_handler(func, events.NewMessage(**kwargs))
             return wrapper
 
         return decorator
@@ -296,7 +296,7 @@ class HINDUS USERBOTClient(TelegramClient):
                         pastelink = await paste_message(
                             ftext, pastetype="s", markdown=False
                         )
-                        text = "**HINDUS USERBOT Error report**\n\n"
+                        text = "**HINDUS_USERBOT Error report**\n\n"
                         link = "[here](https://t.me/HINDUS_USERBOT_SUPPORT)"
                         text += "If you wanna you can report it"
                         text += f"- just forward this message {link}.\n"
@@ -308,12 +308,12 @@ class HINDUS USERBOTClient(TelegramClient):
                             Config.PRIVATE_GROUP_BOT_API_ID, text, link_preview=False
                         )
 
-            from .session import hinduub
+            from .session import HINDUS_USERBOT
 
             if edited is True:
-                hinduub.tgbot.add_event_handler(func, events.MessageEdited(**kwargs))
+                HINDUS_USERBOT.tgbot.add_event_handler(func, events.MessageEdited(**kwargs))
             else:
-                hinduub.tgbot.add_event_handler(func, events.NewMessage(**kwargs))
+                HINDUS_USERBOT.tgbot.add_event_handler(func, events.NewMessage(**kwargs))
 
             return wrapper
 
@@ -343,6 +343,6 @@ HINDUS USERBOTClient.check_testcases = checking
 try:
     send_message_check = TelegramClient.send_message
 except AttributeError:
-    HINDUS USERBOTClient.send_message = send_message
-    HINDUS USERBOTClient.send_file = send_file
-    HINDUS USERBOTClient.edit_message = edit_message
+    HINDUS_USERBOTClient.send_message = send_message
+    HINDUS_USERBOTClient.send_file = send_file
+    HINDUS_USERBOTClient.edit_message = edit_message
