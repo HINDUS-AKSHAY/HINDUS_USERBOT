@@ -44,7 +44,7 @@ PATH = "./userbot/cache/ytsearch.json"
 plugin_category = "admin"
 
 
-@hinduub.hindu_cmd(
+@HINDUS_USERBOT.HINDUS_cmd(
     pattern="iytdl(?:\s|$)([\s\S]*)",
     command=("iytdl", plugin_category),
     info={
@@ -87,7 +87,7 @@ async def iytdl_inline(event):
         await hinduevent.edit("`Sorry!. Can't find any results`")
 
 
-@hinduub.tgbot.on(
+@HINDUS_USERBOT.tgbot.on(
     CallbackQuery(
         data=re.compile(b"^ytdl_download_(.*)_([\d]+|mkv|mp4|mp3)(?:_(a|v))?")
     )
@@ -182,7 +182,7 @@ async def ytdl_download_callback(c_q: CallbackQuery):  # sourcery no-metrics
     )
 
 
-@hinduub.tgbot.on(
+@HINDUS_USERBOT.tgbot.on(
     CallbackQuery(data=re.compile(b"^ytdl_(listall|back|next|detail)_([a-z0-9]+)_(.*)"))
 )
 @check_owner
