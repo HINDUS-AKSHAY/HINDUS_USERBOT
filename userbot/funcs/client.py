@@ -335,11 +335,11 @@ class HINDUS_USERBOTClient(TelegramClient):
         self.running_processes.clear()
 
 
-HINDUS USERBOTClient.fast_download_file = download_file
-HINDUS USERBOTClient.fast_upload_file = upload_file
-HINDUS USERBOTClient.reload = restart_script
-HINDUS USERBOTClient.get_msg_link = get_message_link
-HINDUS USERBOTClient.check_testcases = checking
+HINDUS_USERBOTClient.fast_download_file = download_file
+HINDUS_USERBOTClient.fast_upload_file = upload_file
+HINDUS_USERBOTClient.reload = restart_script
+HINDUS_USERBOTClient.get_msg_link = get_message_link
+HINDUS_USERBOTClient.check_testcases = checking
 try:
     send_message_check = TelegramClient.send_message
 except AttributeError:
