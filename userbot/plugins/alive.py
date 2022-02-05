@@ -90,7 +90,7 @@ temp = """{ALIVE_TEXT}
 {EMOJI} Master: {mention}"""
 
 
-@HINDUS_USERBOT.hindus_cmd(
+@HINDUS_USERBOT.HINDUS_cmd(
     pattern="ialive$",
     command=("ialive", plugin_category),
     info={
@@ -106,11 +106,11 @@ async def amireallyalive(event):
     reply_to_id = await reply_id(event)
     EMOJI = gvarstatus("ALIVE_EMOJI") or " ✨ "
     ALIVE_TEXT = gvarstatus("ALIVE_TEXT") or "**HINDUSub is Up and Running**"
-    Lion_caption = f"{ALIVE_TEXT}\n"
-    Lion_caption += f"**{EMOJI} Telethon version :** `{version.__version__}\n`"
-    Lion_caption += f"**{EMOJI} Hindusub Version :** `{HINDUSversion}`\n"
-    Lion_caption += f"**{EMOJI} Python Version :** `{python_version()}\n`"
-    Lion_caption += f"**{EMOJI} Master:** {mention}\n"
+    HINDUS_caption = f"{ALIVE_TEXT}\n"
+    HINDUS_caption += f"**{EMOJI} Telethon version :** `{version.__version__}\n`"
+    HINDUS_caption += f"**{EMOJI} HINDUSub Version :** `{HINDUSversion}`\n"
+    HINDUS_caption += f"**{EMOJI} Python Version :** `{python_version()}\n`"
+    HINDUS_caption += f"**{EMOJI} Master:** {mention}\n"
     results = await event.client.inline_query(Config.TG_BOT_USERNAME, Lion_caption)
     await results[0].click(event.chat_id, reply_to=reply_to_id, hide_via=True)
     await event.delete()
