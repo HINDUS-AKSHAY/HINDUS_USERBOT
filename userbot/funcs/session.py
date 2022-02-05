@@ -16,7 +16,7 @@ else:
     session = "HINDUS USERBOT"
 
 try:
-    hinduub = HINDUS USERBOTClient(
+    hinduub = HINDUSUSERBOTClient(
         session=session,
         api_id=Config.APP_ID,
         api_hash=Config.API_HASH,
@@ -31,7 +31,7 @@ except Exception as e:
     sys.exit()
 
 
-hinduub.tgbot = tgbot = HINDUS USERBOTClient(
+hinduub.tgbot = tgbot = HINDUSUSERBOTClient(
     session="LionTgXBot",
     api_id=Config.APP_ID,
     api_hash=Config.API_HASH,
