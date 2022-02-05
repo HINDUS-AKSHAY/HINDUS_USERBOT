@@ -7,7 +7,7 @@ from telethon.events import CallbackQuery
 from userbot import hinduub
 
 
-@hinduub.tgbot.on(CallbackQuery(data=re.compile(b"troll_(.*)")))
+@HINDUS_USERBOT.tgbot.on(CallbackQuery(data=re.compile(b"troll_(.*)")))
 async def on_plug_in_callback_query_handler(event):
     timestamp = int(event.pattern_match.group(1).decode("UTF-8"))
     if os.path.exists("./userbot/troll.txt"):
