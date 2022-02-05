@@ -12,7 +12,7 @@ from ..funcs.logger import logging
 LOGS = logging.getLogger(__name__)
 
 
-@hinduub.tgbot.on(CallbackQuery(data=re.compile(r"^age_verification_true")))
+@HINDUS_USERBOT.tgbot.on(CallbackQuery(data=re.compile(r"^age_verification_true")))
 async def age_verification_true(event: CallbackQuery):
     u_id = event.query.user_id
     if u_id != Config.OWNER_ID and u_id not in Config.SUDO_USERS:
@@ -37,7 +37,7 @@ async def age_verification_true(event: CallbackQuery):
         pass
 
 
-@hinduub.tgbot.on(CallbackQuery(data=re.compile(r"^age_verification_false")))
+@HINDUS_USERBOT.tgbot.on(CallbackQuery(data=re.compile(r"^age_verification_false")))
 async def age_verification_false(event: CallbackQuery):
     u_id = event.query.user_id
     if u_id != Config.OWNER_ID and u_id not in Config.SUDO_USERS:
@@ -62,7 +62,7 @@ async def age_verification_false(event: CallbackQuery):
         pass
 
 
-@hinduub.tgbot.on(CallbackQuery(data=re.compile(r"^chg_of_decision_")))
+@HINDUS_USERBOT.tgbot.on(CallbackQuery(data=re.compile(r"^chg_of_decision_")))
 async def chg_of_decision_(event: CallbackQuery):
     u_id = event.query.user_id
     if u_id != Config.OWNER_ID and u_id not in Config.SUDO_USERS:
