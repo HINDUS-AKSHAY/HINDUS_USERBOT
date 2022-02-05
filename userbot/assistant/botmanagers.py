@@ -65,14 +65,14 @@ async def ban_user_from_bot(user, reason, reply_to=None):
     banned_msg = (
         f"**You have been Banned Forever from using this bot.\nReason** : {reason}"
     )
-    await hinduub.tgbot.send_message(user.id, banned_msg)
+    await HINDUS_USERBOT.tgbot.send_message(user.id, banned_msg)
     info = f"**#Banned_Bot_PM_User**\
             \n\n👤 {_format.mentionuser(get_display_name(user) , user.id)}\
             \n**First Name:** {user.first_name}\
             \n**User ID:** `{user.id}`\
             \n**Reason:** `{reason}`"
     if BOTLOG:
-        await hinduub.send_message(BOTLOG_CHATID, info)
+        await HINDUS_USERBOT.send_message(BOTLOG_CHATID, info)
     return info
 
 
@@ -85,11 +85,11 @@ async def unban_user_from_bot(user, reason, reply_to=None):
 
     if reason is not None:
         banned_msg += f"\n**Reason:** __{reason}__"
-    await hinduub.tgbot.send_message(user.id, banned_msg)
+    await HINDUS_USERBOT.tgbot.send_message(user.id, banned_msg)
     info = f"**#Unbanned_Bot_PM_User**\
             \n\n👤 {_format.mentionuser(get_display_name(user) , user.id)}\
             \n**First Name:** {user.first_name}\
             \n**User ID:** `{user.id}`"
     if BOTLOG:
-        await hinduub.send_message(BOTLOG_CHATID, info)
+        await HINDUS_USERBOT.send_message(BOTLOG_CHATID, info)
     return info
