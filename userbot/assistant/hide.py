@@ -15,7 +15,7 @@ async def on_plug_in_callback_query_handler(event):
         try:
             reply_pop_up_alert = jsondata[f"{timestamp}"]["text"]
         except KeyError:
-            reply_pop_up_alert = "This message no longer exists in hinduub server"
+            reply_pop_up_alert = "This message no longer exists in HINDUS_USERBOT server"
     else:
         reply_pop_up_alert = "This message no longer exists "
     await event.answer(reply_pop_up_alert, cache_time=0, alert=True)
